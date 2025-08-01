@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    Mounika:
+      name: Mounika
+      password: '$2b$12$JZxvYzK1ZzOeQJx8vZ6eFeFZzOeQJx8vZ6eFeFZzOeQJx8vZ6eFeF'
+
+cookie:
+  name: smart_dashboard
+  key: some_random_key
+  expiry_days: 1
+
+preauthorized:
+  emails:
+    - mounika@example.com
