@@ -1,0 +1,10 @@
+{
+  "Block A": {
+    "Lab 1": {"AC": "On", "Fan": "Off", "Light": "On"},
+    "Classroom 1": {"Fan": "On", "Light": "On", "TV": "Off"}
+  },
+  "Block B": {
+    "Lab 2": {"AC": "Off", "Fan": "Off", "Light": "Off"},
+    "Classroom 2": {"Fan": "Off", "Light": "Off", "TV": "Off"}
+  }
+}
